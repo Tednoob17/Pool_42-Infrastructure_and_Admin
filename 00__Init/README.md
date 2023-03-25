@@ -1,5 +1,5 @@
 ##################"
-<center><image src="https://github.com/evgenkarlson/ALL_SCHOOL_42/raw/master/03_Norme____(%D0%9D%D0%BE%D1%80%D0%BC%D1%8B_%D0%B8_ %D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A8%D0%BA%D0%BE%D0%BB%D1%8B)/ src/page1image3852832-small-13.png"></center>
+<center><image src="../infrastructure_and_administration.gif"></center>
 </br>
 <center><h2>Administration système et réseau</h1></center>
 </br>
